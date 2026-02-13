@@ -1,0 +1,3 @@
+/home/student/CLionProjects/Prostolupov_CR_Lab1/Task01/cmake-build-debug/CMakeFiles/Task01.dir
+/home/student/CLionProjects/Prostolupov_CR_Lab1/Task01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/Prostolupov_CR_Lab1/Task01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
